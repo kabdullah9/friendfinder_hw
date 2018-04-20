@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder_hw",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabdullah9/friendfinder_hw.git"
+  },
+  "author": "khaalid abdullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kabdullah9/friendfinder_hw/issues"
+  },
+  "homepage": "https://github.com/kabdullah9/friendfinder_hw#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
